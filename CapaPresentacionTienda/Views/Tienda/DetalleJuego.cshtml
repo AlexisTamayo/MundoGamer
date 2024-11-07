@@ -1,0 +1,65 @@
+﻿
+
+
+@*AUN NO HACER*@ 
+
+
+@model CapaEntidad.Producto
+
+@{
+    ViewBag.Title = "Detalle del Juego";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-5">
+            <!-- Columna de imagen -->
+            <div class="col-lg-4">
+                <div class="text-center p-3" style="background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                    <div class="product-image-box text-center p-3" style="background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <img class="img-fluid"
+                             src="data:image/@Html.DisplayTextFor(m => m.Extension);base64,@Html.DisplayTextFor(m => m.Base64)"
+                             alt="Imagen del producto"
+                             style="border-radius: 10px;" />
+                    </div>
+
+
+
+
+
+                </div>
+            </div>
+
+            <!-- Columna de información -->
+            <div class="col-lg-4">
+                <div class="p-3" style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                    <h1>@Html.DisplayFor(model => model.Nombre)</h1>
+                    <p>@Html.DisplayFor(model => model.Descripcion)</p>
+                    <span>Marca: @Html.DisplayFor(model => model.oMarca.Descripcion)</span>
+                </div>
+            </div>
+
+            <!-- Columna de acciones -->
+            <div class="col-lg-4">
+                <div class="text-center p-3" style="background-color: #f0f0f0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                    <div style="font-size: 2rem; font-weight: bold; color: #28a745;">
+                        @Html.DisplayFor(model => model.Precio) USD
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="@Url.Action("Index", "Tienda")" class="btn btn-danger">Volver</a>
+                        @if (HttpContext.Current.Session["Cliente"] != null)
+                        {
+                            <button class="btn btn-success" type="button" data-idproducto="@Model.IdProducto">
+                                Agregar al carrito
+                            </button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+

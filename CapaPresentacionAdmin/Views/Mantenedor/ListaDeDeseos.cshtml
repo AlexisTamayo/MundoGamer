@@ -1,0 +1,1120 @@
+﻿
+@{
+    ViewBag.Title = "ListaDeDeseos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    @*<div class="container-fluid px-4 ">
+            <a class="navbar-brand" href="#!">VIDEOGAME STORE</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Inicio</a></li>
+
+                    <li class="nav-item dropdown">
+
+                    </li>
+                </ul>
+                <form class="d-flex">
+                    <button class="btn btn-outline-dark">
+                        <div style="display: inline-block; width: 15px; height: 5;"></div>
+                        Cart
+                        <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+
+                        <ul class="navbar-nav ms-auto me-0 me-md-3 my-2 my-md-0">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"></a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                    <li><a class="dropdown-item" href="#!">Correo del Usuario</a></li>
+                                    <li><hr class="dropdown-divider" /></li>
+                                    <li><a class="dropdown-item" href="#!">Mis Compras</a></li>
+                                    <li><a class="dropdown-item" href="#!">Cerrar Sesion</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </button>
+
+
+                </form>
+            </div>
+        </div>*@
+
+</nav>
+
+<hr>
+<header class="bg-dark py-5" style="background-image: url('imagenes/Fondo.jpg'); background-size: cover;">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="text-center text-white">
+            <h1 class="display-4 fw-bolder">GAME MVC</h1>
+            <p class="lead fw-normal text-white-50 mb-0">
+                Sumérgete en un mundo de videojuegos y disfruta de una experiencia de compra segura y confiable.<br>
+                Explora nuestra amplia selección de videojuegos y encuentra tu próximo favorito.<br>
+                Únete a la comunidad de jugadores y comparte tu pasión por los videojuegos.
+            </p>
+        </div>
+    </div>
+</header>
+
+
+
+<body>
+    <!-- Section-->
+    <section class="py-5">
+        <div class="container px-4 px-lg-5 mt-5">
+            <!--CONTENEDOR DE CATEGORIAS-->
+            <div class="container" style="color: black; font-size: 25px;">
+
+                <div class="row mb-3">
+                    <div class="col">
+                        <input type="radio" name="filtro" id="Todo" checked>
+                        <label for="Todo"> Todo</label>
+                    </div>
+                    <div class="col">
+                        <input type="radio" name="filtro" id="Accion">
+                        <label for="Accion"> Accion</label>
+                    </div>
+                    <div class="col">
+                        <input type="radio" name="filtro" id="Deporte">
+                        <label for="Deporte"> Deporte</label>
+                    </div>
+                    <div class="col">
+                        <input type="radio" name="filtro" id="Estrategia">
+                        <label for="Estrategia"> Estrategia</label>
+                    </div>
+                    <div class="col">
+                        <input type="radio" name="filtro" id="Puzzle">
+                        <label for="Puzzle"> Puzzle</label>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+                <!-- Carta para FIFA 23 -->
+                <div class="col mb-5 carta-deporte">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute sale-badge">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/fifa.jpg" alt="FIFA 23" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">FIFA 23</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$150.00</span>
+                                $110.00
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center">
+                                <!-- Botón para mostrar detalles -->
+                                <a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#fifaModal">Ver Detalles</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para FIFA 23 -->
+                <div class="modal fade" id="fifaModal" tabindex="-1" aria-labelledby="fifaModalLabel" aria-hidden="true">
+                    <!-- Contenido del modal -->
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="fifaModalLabel">Detalles del Juego: FIFA 23</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <!-- Contenido del modal -->
+                                    <div class="row">
+                                        <!-- Imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/fifa.jpg" alt="FIFA 23">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: PlayStation, Xbox, PC</li>
+                                                <li>Género: Deportes</li>
+                                                <li>Desarrollador: EA Sports</li>
+                                                <li>Fecha de lanzamiento: 2023</li>
+                                                <li>Modo de juego: Multijugador, un jugador</li>
+                                            </ul>
+
+                                            <form id="fifaCommentForm">
+                                                <div class="form-group">
+                                                    <label for="fifaComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="fifaComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarComentariosfifa" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="fifaCommentContainer"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Carta para World of Warcraft -->
+                <div class="col mb-5 carta-estrategia">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute sale-badge">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/world.jpg" alt="World of Warcraft" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">World of Warcraft</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$40.00</span>
+                                $28.00
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center">
+                                <!-- Botón para mostrar detalles -->
+                                <a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#wowModal">Ver Detalles</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para World of Warcraft -->
+                <div class="modal fade" id="wowModal" tabindex="-1" aria-labelledby="wowModalLabel" aria-hidden="true">
+                    <!-- Contenido del modal -->
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="wowModalLabel">Detalles del Juego: World of Warcraft</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <!-- Contenido del modal -->
+                                    <div class="row">
+                                        <!-- Imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/world.jpg" alt="World of Warcraft">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: PC</li>
+                                                <li>Género: Estrategia</li>
+                                                <li>Desarrollador: Blizzard Entertainment</li>
+                                                <li>Fecha de lanzamiento: 2004</li>
+                                                <li>Modo de juego: Multijugador en línea</li>
+                                            </ul>
+
+                                            <form id="wowCommentForm">
+                                                <div class="form-group">
+                                                    <label for="wowComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="wowComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarComentariosWow" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="wowCommentsContainer"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Carta de Assassin's Creed -->
+                <div class="col mb-5 carta-accion">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute sale-badge">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/creed.jpg" alt="Assassin's Creed" style="max-width: 100%; height: auto;" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">Assassin's Creed</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$100.00</span>
+                                $80.00
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#assassinsCreedModal">Ver Detalles</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para Assassin's Creed -->
+                <div class="modal fade" id="assassinsCreedModal" tabindex="-1" aria-labelledby="assassinsCreedModalLabel" aria-hidden="true">
+                    <!-- Contenido del modal -->
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="assassinsCreedModalLabel">Detalles del Juego: Assassin's Creed</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <!-- Primera columna: imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/creed.jpg" alt="Assassin's Creed">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: PlayStation, Xbox, PC</li>
+                                                <li>Género: Acción-Aventura</li>
+                                                <li>Desarrollador: Ubisoft</li>
+                                                <li>Fecha de lanzamiento: 2007</li>
+                                                <li>Modo de juego: Un jugador</li>
+                                            </ul>
+
+                                            <form id="assassinsCreedCommentForm">
+                                                <div class="form-group">
+                                                    <label for="assassinsCreedComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="assassinsCreedComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarComentariosAssassinsCreed" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="assassinsCreedComments"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <!-- Carta para Buscaminas -->
+                <div class="col mb-5 carta-puzzle">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/buscaminas.jpg" alt="Buscaminas" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">Buscaminas</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$GRATIS</span>
+                                $GRATIS
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center">
+                                <a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#buscaminasModal">Ver Detalles</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para Buscaminas -->
+                <div class="modal fade" id="buscaminasModal" tabindex="-1" aria-labelledby="buscaminasModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="buscaminasModalLabel">Detalles del Juego: Buscaminas</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <!-- Contenido del modal -->
+                                    <div class="row">
+                                        <!-- Imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/buscaminas.jpg" alt="Buscaminas">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: PC</li>
+                                                <li>Género: Puzzle</li>
+                                                <li>Desarrollador: Microsoft</li>
+                                                <li>Fecha de lanzamiento: 1990</li>
+                                                <li>Modo de juego: Un jugador</li>
+                                            </ul>
+
+                                            <form id="buscaminasCommentForm">
+                                                <div class="form-group">
+                                                    <label for="buscaminasComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="buscaminasComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarComentariosBuscaminas" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="buscaminasCommentsContainer"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Carta para Counter Strike Global Offensive -->
+                <div class="col mb-5 carta-accion">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute sale-badge">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/strike.jpg" alt="Counter Strike Global Offensive" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">Counter Strike Global Offensive</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$100.00</span>
+                                $80.00
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#csgoModal">Ver Detalles</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para Counter Strike Global Offensive -->
+                <div class="modal fade" id="csgoModal" tabindex="-1" aria-labelledby="csgoModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="csgoModalLabel">Detalles del Juego: Counter Strike Global Offensive</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <!-- Primera columna: imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/strike.jpg" alt="Counter Strike Global Offensive">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: PC</li>
+                                                <li>Género: Acción</li>
+                                                <li>Desarrollador: Valve, Hidden Path Entertainment</li>
+                                                <li>Fecha de lanzamiento: 2012</li>
+                                                <li>Modo de juego: Multijugador</li>
+                                            </ul>
+
+                                            <form id="csgoCommentForm">
+                                                <div class="form-group">
+                                                    <label for="csgoComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="csgoComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarComentariosCSGO" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="csgoCommentsContainer"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Carta para Free Fire -->
+                <div class="col mb-5 carta-estrategia carta-accion">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute sale-badge">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/free.jpeg" alt="Free Fire" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">Free Fire</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$40.00</span>
+                                $00.00
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#freeFireModal">Ver Detalles</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para Free Fire -->
+                <div class="modal fade" id="freeFireModal" tabindex="-1" aria-labelledby="freeFireModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="freeFireModalLabel">Detalles del Juego: Free Fire</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <div class="row">
+                                        <!-- Primera columna: imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/free.jpeg" alt="Free Fire">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: Android, iOS</li>
+                                                <li>Género: Acción y Estrategia</li>
+                                                <li>Desarrollador: 111 Dots Studio</li>
+                                                <li>Fecha de lanzamiento: 2017</li>
+                                                <li>Modo de juego: Multijugador en línea</li>
+                                            </ul>
+
+                                            <form id="freeFireCommentForm">
+                                                <div class="form-group">
+                                                    <label for="freeFireComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="freeFireComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarComentariosFreeFire" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="freeFireCommentsContainer"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Carta para Call Of Duty -->
+                <div class="col mb-5 carta-estrategia carta-accion">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute sale-badge">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/call.jpeg" alt="Call Of Duty" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">Call Of Duty</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$300.00</span>
+                                $270.00
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#callOfDutyModal">Ver Detalles</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para Call Of Duty -->
+                <div class="modal fade" id="callOfDutyModal" tabindex="-1" aria-labelledby="callOfDutyModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="callOfDutyModalLabel">Detalles del Juego: Call Of Duty</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <!-- Contenido del modal -->
+                                    <div class="row">
+                                        <!-- Imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/call.jpeg" alt="Call Of Duty">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: Multiplataforma</li>
+                                                <li>Género: Acción y Estrategia</li>
+                                                <li>Desarrollador: Infinity Ward</li>
+                                                <li>Fecha de lanzamiento: 2003</li>
+                                                <li>Modo de juego: Multijugador</li>
+                                            </ul>
+
+                                            <form id="callOfDutyCommentForm">
+                                                <div class="form-group">
+                                                    <label for="callOfDutyComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="callOfDutyComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarCallOfDutyComentarios" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="callOfDutyComments"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Carta para Valorant -->
+                <div class="col mb-5 carta-estrategia carta-accion">
+                    <div class="card h-100">
+                        <!-- Sale badge-->
+                        <div class="badge bg-dark text-white position-absolute sale-badge" style="top: 0.5rem; right: 0.5rem">Sale</div>
+                        <!-- Product image-->
+                        <img class="card-img-top" src="~/imagenes/valorantt.jpg" alt="Valorant" />
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Product name-->
+                                <h5 class="fw-bolder">Valorant</h5>
+                                <!-- Product reviews-->
+                                <div class="d-flex justify-content-center small text-warning mb-2">
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                    <div class="bi-star-fill"></div>
+                                </div>
+                                <!-- Product price-->
+                                <span class="text-muted text-decoration-line-through">$100.00</span>
+                                $60.00
+                            </div>
+                        </div>
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#" data-bs-toggle="modal" data-bs-target="#valorantModal">Ver Detalles</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Modal para Valorant -->
+                <div class="modal fade" id="valorantModal" tabindex="-1" aria-labelledby="valorantModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="valorantModalLabel">Detalles del Juego: Valorant</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="container-fluid">
+                                    <!-- Contenido del modal -->
+                                    <div class="row">
+                                        <!-- Imagen, especificaciones y comentarios -->
+                                        <div class="col-md-8">
+                                            <!-- Imagen del juego -->
+                                            <img class="img-fluid mb-3" src="~/imagenes/valorantt.jpg" alt="Valorant">
+                                            <!-- Especificaciones -->
+                                            <h6 class="fw-bold">Especificaciones:</h6>
+                                            <ul>
+                                                <li>Plataforma: PC</li>
+                                                <li>Género: Acción y Estrategia</li>
+                                                <li>Desarrollador: Riot Games</li>
+                                                <li>Fecha de lanzamiento: 2020</li>
+                                                <li>Modo de juego: Multijugador</li>
+                                            </ul>
+
+                                            <form id="valorantCommentForm">
+                                                <div class="form-group">
+                                                    <label for="valorantComment">Deja tu comentario:</label>
+                                                    <textarea class="form-control" id="valorantComment" rows="3"></textarea>
+                                                    <hr>
+                                                </div>
+                                                <button type="submit" class="btn btn-primary">Enviar</button>
+                                                <button type="button" id="limpiarValorantComentarios" class="btn btn-secondary">Limpiar Comentarios</button>
+                                                <button type="submit" class="btn btn-primary">Agregar a lista de deseos</button>
+                                                <hr>
+                                            </form>
+                                            <!-- Comentarios -->
+                                            <h6 class="fw-bold">Comentarios:</h6>
+                                            <!-- Contenedor para mostrar los comentarios -->
+                                            <div id="valorantComments">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-primary">Comprar</button>
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+            </div>
+    </section>
+
+</body>
+
+@section Scripts {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('input[name="filtro"]').change(function () {
+                var categoriaSeleccionada = $(this).attr('id');
+                ocultarMostrarCartas(categoriaSeleccionada);
+            });
+
+            function ocultarMostrarCartas(categoriaSeleccionada) {
+                $('.col.mb-5').each(function () {
+                    if ($(this).hasClass('carta-' + categoriaSeleccionada.toLowerCase()) || categoriaSeleccionada === 'Todo') {
+                        $(this).show();
+                    } else {
+                        $(this).hide();
+                    }
+                });
+            }
+        });
+    </script>
+
+
+    <script>
+        //Fifa 23
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de FIFA 23
+            function limpiarFifaComentarios() {
+                localStorage.removeItem('fifaComments');
+                $('#fifaCommentContainer').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para FIFA 23
+            var savedFifaComments = JSON.parse(localStorage.getItem('fifaComments'));
+            if (savedFifaComments) {
+                $('#fifaCommentContainer').html(savedFifaComments);
+            }
+
+            // Manejador de envío de comentario para FIFA 23
+            $('#fifaCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#fifaComment').val();
+                // Guardar el comentario en localStorage para FIFA 23
+                var existingComments = $('#fifaCommentContainer').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('fifaComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#fifaCommentContainer').html(updatedComments);
+                $('#fifaCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de FIFA 23
+            $('#limpiarComentariosfifa').click(function () {
+                limpiarFifaComentarios();
+            });
+
+
+        });
+
+
+        // World of Warcraft
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de World of Warcraft
+            function limpiarWowComentarios() {
+                localStorage.removeItem('wowComments');
+                $('#wowCommentsContainer').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para World of Warcraft
+            var savedWowComments = JSON.parse(localStorage.getItem('wowComments'));
+            if (savedWowComments) {
+                $('#wowCommentsContainer').html(savedWowComments);
+            }
+
+            // Manejador de envío de comentario para World of Warcraft
+            $('#wowCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#wowComment').val();
+                // Guardar el comentario en localStorage para World of Warcraft
+                var existingComments = $('#wowCommentsContainer').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('wowComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#wowCommentsContainer').html(updatedComments);
+                $('#wowCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de World of Warcraft
+            $('#limpiarComentariosWow').click(function () {
+                limpiarWowComentarios();
+            });
+
+        });
+        // Assassin's Creed
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de Assassin's Creed
+            function limpiarAssassinsCreedComentarios() {
+                localStorage.removeItem('assassinsCreedComments');
+                $('#assassinsCreedComments').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para Assassin's Creed
+            var savedAssassinsCreedComments = JSON.parse(localStorage.getItem('assassinsCreedComments'));
+            if (savedAssassinsCreedComments) {
+                $('#assassinsCreedComments').html(savedAssassinsCreedComments);
+            }
+
+            // Manejador de envío de comentario para Assassin's Creed
+            $('#assassinsCreedCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#assassinsCreedComment').val();
+                // Guardar el comentario en localStorage para Assassin's Creed
+                var existingComments = $('#assassinsCreedComments').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('assassinsCreedComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#assassinsCreedComments').html(updatedComments);
+                $('#assassinsCreedCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de Assassin's Creed
+            $('#limpiarComentariosAssassinsCreed').click(function () {
+                limpiarAssassinsCreedComentarios();
+            });
+
+        });
+
+        // Buscaminas
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de Buscaminas
+            function limpiarBuscaminasComentarios() {
+                localStorage.removeItem('buscaminasComments');
+                $('#buscaminasCommentsContainer').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para Buscaminas
+            var savedBuscaminasComments = JSON.parse(localStorage.getItem('buscaminasComments'));
+            if (savedBuscaminasComments) {
+                $('#buscaminasCommentsContainer').html(savedBuscaminasComments);
+            }
+
+            // Manejador de envío de comentario para Buscaminas
+            $('#buscaminasCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#buscaminasComment').val();
+                // Guardar el comentario en localStorage para Buscaminas
+                var existingComments = $('#buscaminasCommentsContainer').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('buscaminasComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#buscaminasCommentsContainer').html(updatedComments);
+                $('#buscaminasCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de Buscaminas
+            $('#limpiarComentariosBuscaminas').click(function () {
+                limpiarBuscaminasComentarios();
+            });
+
+
+        });
+
+        // Counter Strike Global Offensive
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de Counter Strike Global Offensive
+            function limpiarCSGOComentarios() {
+                localStorage.removeItem('csgoComments');
+                $('#csgoCommentsContainer').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para CSGO
+            var savedCSGOComments = JSON.parse(localStorage.getItem('csgoComments'));
+            if (savedCSGOComments) {
+                $('#csgoCommentsContainer').html(savedCSGOComments);
+            }
+
+            // Manejador de envío de comentario para Counter Strike Global Offensive
+            $('#csgoCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#csgoComment').val();
+                // Guardar el comentario en localStorage para CSGO
+                var existingComments = $('#csgoCommentsContainer').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('csgoComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#csgoCommentsContainer').html(updatedComments);
+                $('#csgoCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de CSGO
+            $('#limpiarComentariosCSGO').click(function () {
+                limpiarCSGOComentarios();
+            });
+
+
+        });
+        // Free Fire
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de Free Fire
+            function limpiarFreeFireComentarios() {
+                localStorage.removeItem('freeFireComments');
+                $('#freeFireCommentsContainer').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para Free Fire
+            var savedFreeFireComments = JSON.parse(localStorage.getItem('freeFireComments'));
+            if (savedFreeFireComments) {
+                $('#freeFireCommentsContainer').html(savedFreeFireComments);
+            }
+
+            // Manejador de envío de comentario para Free Fire
+            $('#freeFireCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#freeFireComment').val();
+                // Guardar el comentario en localStorage para Free Fire
+                var existingComments = $('#freeFireCommentsContainer').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('freeFireComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#freeFireCommentsContainer').html(updatedComments);
+                $('#freeFireCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de Free Fire
+            $('#limpiarComentariosFreeFire').click(function () {
+                limpiarFreeFireComentarios();
+            });
+
+        });
+
+        // Call Of Duty
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de Call Of Duty
+            function limpiarCallOfDutyComentarios() {
+                localStorage.removeItem('callOfDutyComments');
+                $('#callOfDutyComments').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para Call Of Duty
+            var savedCallOfDutyComments = JSON.parse(localStorage.getItem('callOfDutyComments'));
+            if (savedCallOfDutyComments) {
+                $('#callOfDutyComments').html(savedCallOfDutyComments);
+            }
+
+            // Manejador de envío de comentario para Call Of Duty
+            $('#callOfDutyCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#callOfDutyComment').val();
+                // Guardar el comentario en localStorage para Call Of Duty
+                var existingComments = $('#callOfDutyComments').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('callOfDutyComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#callOfDutyComments').html(updatedComments);
+                $('#callOfDutyCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de Call Of Duty
+            $('#limpiarCallOfDutyComentarios').click(function () {
+                limpiarCallOfDutyComentarios();
+            });
+
+
+        });
+
+        // Valorant
+        $(document).ready(function () {
+
+            // Función para limpiar los comentarios guardados de Valorant
+            function limpiarValorantComentarios() {
+                localStorage.removeItem('valorantComments');
+                $('#valorantComments').html('');
+            }
+
+            // Al cargar la página, recuperar los comentarios guardados en localStorage y mostrarlos para Valorant
+            var savedValorantComments = JSON.parse(localStorage.getItem('valorantComments'));
+            if (savedValorantComments) {
+                $('#valorantComments').html(savedValorantComments);
+            }
+
+            // Manejador de envío de comentario para Valorant
+            $('#valorantCommentForm').submit(function (event) {
+                event.preventDefault();
+                var comment = $('#valorantComment').val();
+                // Guardar el comentario en localStorage para Valorant
+                var existingComments = $('#valorantComments').html();
+                var updatedComments = existingComments + "USUARIO: " + comment + "<br> <hr>";
+                localStorage.setItem('valorantComments', JSON.stringify(updatedComments));
+                // Mostrar el comentario
+                $('#valorantComments').html(updatedComments);
+                $('#valorantCommentForm')[0].reset(); // Limpiar el formulario después de enviar
+            });
+
+            // Manejador para el botón de limpiar comentarios de Valorant
+            $('#limpiarValorantComentarios').click(function () {
+                limpiarValorantComentarios();
+            });
+
+
+        });
+
+
+
+    </script>
+
+
+}
+
+

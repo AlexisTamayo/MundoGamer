@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D197D7-A6F3-4D41-BFFF-7AB57FC8E23C}|CapaDatos\\CapaDatos.csproj|c:\\users\\usuario\\downloads\\calidad 2024-2\\nuevo proyecto\\calidad proyecto\\calidad-pruebas-software\\capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D197D7-A6F3-4D41-BFFF-7AB57FC8E23C}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capaentidad\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\miscompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\miscompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capanegocio\\cn_recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\juegosfavoritos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\juegosfavoritos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capaentidad\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capaentidad\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capanegocio\\cn_favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capanegocio\\cn_carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D36BC2-FD13-460E-BDFC-D06F09E05AB8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\detallejuego.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\detallejuego.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9FDD4E-9DD5-4154-80F6-C730821535DD}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CN_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Producto.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Producto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Producto.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Producto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:15:24.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CD_Producto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Producto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CD_Producto.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Producto.cs",
+              "ViewState": "AQIAAIABAAAAAAAAAAArwJQBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:30:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "CapaPresentacionTienda\\Controllers\\TiendaController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAcwF8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:46:25.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AQIAALkAAAAAAAAAAAAUwMIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T06:35:49.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CN_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Venta.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Venta.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Venta.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:29:27.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:29:52.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CN_Recursos.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Recursos.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Recursos.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Recursos.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Recursos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:30:14.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:55:47.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CN_Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Favorito.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Favorito.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Favorito.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Favorito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:15:21.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MisCompras.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\MisCompras.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\MisCompras.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\MisCompras.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\MisCompras.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T13:30:25.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\DetalleVenta.cs",
+              "RelativeToolTip": "CapaEntidad\\DetalleVenta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:30:38.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:24:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JuegosFavoritos.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\JuegosFavoritos.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\JuegosFavoritos.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\JuegosFavoritos.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\JuegosFavoritos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T16:38:12.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CN_Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Carrito.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Carrito.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CN_Carrito.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Carrito.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvx4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:02:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Favorito.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Favorito.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Favorito.cs",
+              "RelativeToolTip": "CapaEntidad\\Favorito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:24:54.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Carrito.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Carrito.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Carrito.cs",
+              "RelativeToolTip": "CapaEntidad\\Carrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:24:16.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalleProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:22:13.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetalleJuego.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\DetalleJuego.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\DetalleJuego.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\DetalleJuego.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\DetalleJuego.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T21:51:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\Producto.cs",
+              "RelativeToolTip": "CapaEntidad\\Producto.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T03:06:31.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

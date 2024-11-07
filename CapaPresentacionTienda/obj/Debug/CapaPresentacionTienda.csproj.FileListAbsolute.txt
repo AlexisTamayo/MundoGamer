@@ -1,0 +1,225 @@
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.exe
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.exe.config
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.rsp
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.exe
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.exe.config
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.rsp
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Buffers.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Memory.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.exe
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.rsp
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaEntidad.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Helpers.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Mvc.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Optimization.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Razor.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\WebGrease.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaDatos.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaEntidad.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Helpers.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Mvc.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Razor.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Optimization.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaDatos.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPres.0F0FCBD9.Up2Date
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.dll.config
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.exe
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.exe
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Buffers.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Memory.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaEntidad.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\WebGrease.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaDatos.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaEntidad.pdb
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.pdb
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.dll.config
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaDatos.pdb
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPres.0F0FCBD9.Up2Date
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll.config
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaPresentacionTienda.pdb
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Buffers.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Memory.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaDatos.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaNegocio.dll.config
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\CapaDatos.pdb
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPres.0F0FCBD9.Up2Date
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.dll
+C:\Users\USUARIO\Desktop\Calidad Proyecto\Calidad-Pruebas-Software\CapaPresentacionTienda\obj\Debug\CapaPresentacionTienda.pdb

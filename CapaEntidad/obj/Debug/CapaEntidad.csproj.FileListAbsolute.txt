@@ -1,0 +1,18 @@
+C:\Users\varga\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\varga\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\varga\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\varga\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\varga\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\varga\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Anderson Vargas\OneDrive\Escritorio\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Downloads\calidad 2024-2\nuevo proyecto\Calidad Proyecto\Calidad-Pruebas-Software\CapaEntidad\obj\Debug\CapaEntidad.pdb

@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\MiProyecto.Tests\\MiProyecto.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CapaDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj",
+        "projectName": "CapaEntidad",
+        "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj",
+        "projectName": "CapaPresentacionAdmin",
+        "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj"
+              },
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj",
+        "projectName": "CapaPresentacionTienda",
+        "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj"
+              },
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\MiProyecto.Tests\\MiProyecto.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\MiProyecto.Tests\\MiProyecto.Tests.csproj",
+        "projectName": "MiProyecto.Tests",
+        "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\MiProyecto.Tests\\MiProyecto.Tests.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\MiProyecto.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaEntidad\\CapaEntidad.csproj"
+              },
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaNegocio\\CapaNegocio.csproj"
+              },
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj"
+              },
+              "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Downloads\\calidad 2024-2\\nuevo proyecto\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\CapaPresentacionTienda.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Web.Mvc.Extensions": {
+              "target": "Package",
+              "version": "[1.1.1.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

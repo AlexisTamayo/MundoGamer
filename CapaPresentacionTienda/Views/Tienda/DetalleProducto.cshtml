@@ -1,0 +1,169 @@
+﻿@using CapaEntidad
+@model CapaEntidad.Producto
+
+@{
+    ViewBag.Title = "DetalleProducto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <!-- Caja principal con 3 columnas -->
+        <div class="row gx-5">
+            <!-- Primera columna: Imagen del producto -->
+            <div class="col-lg-4">
+                <div class="product-image-box text-center p-3" style="background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                    <img class="img-fluid"
+                         src="data:image/@Html.DisplayTextFor(m => m.Extension);base64,@Html.DisplayTextFor(m => m.Base64)"
+                         alt="Imagen del producto"
+                         style="border-radius: 10px;" />
+                </div>
+            </div>
+
+            <!-- Segunda columna: Nombre y Descripción -->
+            <div class="col-lg-4">
+                <div class="product-info-box p-3" style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                    <h1 class="product-name" style="color: #333;">@Html.DisplayTextFor(m => m.Nombre)</h1>
+                    <p class="product-description text-muted">@Html.DisplayTextFor(m => m.Descripcion)</p>
+                    <span class="product-brand" style="font-size: 1.2rem; font-weight: bold; color: #6c757d;">Marca: @Html.DisplayTextFor(m => m.oMarca.Descripcion)</span>
+                </div>
+            </div>
+
+            <!-- Tercera columna: Botones y precio -->
+            <div class="col-lg-4">
+                <div class="product-action-box text-center p-3" style="background-color: #f0f0f0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                    <div class="product-price mb-4" style="font-size: 2rem; font-weight: bold; color: #28a745;">
+                        @Html.DisplayTextFor(m => m.Precio) USD
+                    </div>
+                    <div class="d-grid gap-2">
+                        <a href="@Url.Action("Index", "Tienda")" class="btn btn-danger w-100" style="font-size: 1rem; padding: 10px;">
+                            <i class="fas fa-undo-alt"></i> Volver
+                        </a>
+                        @if (Session["Cliente"] != null)
+                        {
+                            <button class="btn btn-success agregarcarrito w-100" type="button" data-idproducto="@Html.DisplayTextFor(m => m.IdProducto)" style="font-size: 1rem; padding: 10px;">
+                                <i class="fas fa-cart-plus"></i> Agregar al carrito
+                            </button>
+                            <button class="btn btn-warning" onclick="AgregarAFavoritos(@Model.IdProducto)" style="font-size: 1rem; padding: 10px; width: 100%;">
+                                <i class="fas fa-star"></i> Agregar a Favoritos
+                            </button>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--    caracteristicas-->
+<!--   fin de caracteristicas-->
+<!-- Sección de reseñas -->
+<section class="py-5 bg-light">
+    <div class="container px-4 px-lg-5 my-5">
+        <h3>Reseñas de otros usuarios</h3>
+
+        <div class="reviews-list">
+            @foreach (var reseña in Model.Reseñas)
+            {
+                <div class="review-item d-flex mb-4" style="background-color: #e9ecef; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+                    <div class="review-user" style="width: 150px; text-align: center; background-color: #343a40; color: white; padding: 10px; border-radius: 10px;">
+                        <strong>@reseña.Usuario</strong>
+                    </div>
+                    <div class="review-content ms-3">
+                        <p>@reseña.Comentario</p>
+                        <span class="review-rating" style="font-size: 1.2rem; color: #ffc107;">Puntuación: @reseña.Puntuacion</span>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <!-- Formulario para agregar reseña si el usuario está autenticado -->
+        @if (Session["Cliente"] != null)
+        {
+            <h3>Deja tu reseña</h3>
+            using (Html.BeginForm("AgregarReseña", "Tienda", FormMethod.Post))
+            {
+                @Html.Hidden("idProducto", Model.IdProducto)
+                @Html.Hidden("usuario", ((Cliente)Session["Cliente"]).Correo)
+
+                <div class="mb-3">
+                    <label for="comentario" class="form-label">Comentario:</label>
+                    <textarea class="form-control" name="comentario" required></textarea>
+                </div>
+
+                <div class="mb-3">
+                    <label for="puntuacion" class="form-label">Puntuación:</label>
+                    <input type="number" class="form-control" name="puntuacion" min="1" max="5" required />
+                </div>
+
+                <button type="submit" class="btn btn-primary">Enviar Reseña</button>
+            }
+        }
+        else
+        {
+            <p>Debes iniciar sesión para dejar una reseña.</p>
+        }
+
+        <!-- Mostrar mensajes de error o éxito -->
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger">@ViewBag.Error</div>
+        }
+
+        @if (ViewBag.Mensaje != null)
+        {
+            <div class="alert alert-success">@ViewBag.Mensaje</div>
+        }
+    </div>
+</section>
+
+
+@section scripts{
+    <script>
+        $(document).on("click", "button.agregarcarrito", function () {
+            jQuery.ajax({
+                url: '@Url.Action("AgregarCarrito", "Tienda")',
+                type: "POST",
+                data: JSON.stringify({ idproducto: $(this).data("idproducto") }),
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    if (data.respuesta) {
+                        MostrarCantidadCarrito();
+                        swal("", "Agregado al carrito", "success");
+                    } else {
+                        swal("", data.mensaje, "warning");
+                    }
+                }
+            });
+        });
+
+       /* AQUI VENIR POR SI HAY ALGO MALO*/
+
+        function AgregarAFavoritos(idProducto) {
+            $.ajax({
+                url: '@Url.Action("AgregarAFavoritos", "Tienda")',
+                type: 'POST',
+                data: { idProducto: idProducto },
+                success: function (response) {
+                    window.location.href = '@Url.Action("JuegosFavoritos", "Tienda")';
+                },
+                error: function (error) {
+                    alert('Error: ' + error.responseText);
+                 }
+             });
+        }
+
+
+    </script>
+}
+
+
+
+
+
+
+
+
+
